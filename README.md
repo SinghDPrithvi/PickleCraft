@@ -1,2 +1,2 @@
 # Pickle_Craft
-Contains all our design for our Satellite and Source Code for it. 
+Contains all the designs for our satellite and source code for it. 
